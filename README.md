@@ -1,29 +1,45 @@
-# Trader-Pro
-# Learn Express Handlebars 
-Express Handlebars is a power view engine that allows you to build semantic templates with no frustation. 
 
-### Prerequisites
- - Node.js
- - Vscode
-
- ### NPM Packages
- - Express
- - Express-handlebars
-
-
- #### Videos
-Title  | Video
------------------------------------- | -------------
-Get started with Express handlebars  | [Video](https://www.youtube.com/watch?v=erfN7fH7A6s&t=4s&index=2&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Create default layout                | [Video](https://www.youtube.com/watch?v=Yh5qW_L5YNQ&t=5s&index=3&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Send Data to Express Handlebars      | [Video](https://www.youtube.com/watch?v=Y77Sw7l2Zr8&t=5s&index=4&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-If Helper - Express Handlebars       | [Video](https://www.youtube.com/watch?v=rP45kDBlx9k&t=5s&index=5&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Unless Helper                        | [Video](https://www.youtube.com/watch?v=FQzcVGLxTm8&t=2s&index=6&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Each Helper                          | [Video](https://www.youtube.com/watch?v=JbrqxPcuYVc&t=2s&index=7&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Create Partials                      | [Video](https://www.youtube.com/watch?v=tb7081fzfdE&t=1s&index=8&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Change .handlebars to .whatever      | [Video](https://www.youtube.com/watch?v=3hbLVmpc22Q&t=1s&index=9&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Lookup helper                        | [Video](https://www.youtube.com/watch?v=eQ3ItSF61Dg&t=1s&index=10&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Create custom helper                 | [Video](https://www.youtube.com/watch?v=2BoSBaWvFhM&t=1s&index=11&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-{{}} vs {{{}}}                       | [Video](https://www.youtube.com/watch?v=c49HnCVPyWs&t=2s&index=12&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-With Built Helper                    | [Video](https://www.youtube.com/watch?v=kFW8tCi8xOQ&t=1s&index=13&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
-Multiple CSS Files                   | [Video](https://www.youtube.com/watch?v=o4njTeKjGWQ&t=0s&index=14&list=PLurIMwd6GdCi3ssXNAcjZ2l5mYaTfYPhf)
+  # Project Title : TraderPro
+  ## Project Description:
+  An application that allows the client to search through a list of stocks and recieve information about that stock including but not limited to currrent price, name, symbol, with the potential for more information to be added in the future.
+  ## Badges
+  !(https://img.shields.io/github/repo-size/:Bowerpower85/:undefined)
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contributing](#contributing)
+  * [Test](#test)
+  * [Questions](#questions)
+  * [License](#license)
+  * [Author](#Author)
+  * [Badges](#badges)
+  ## Installation
+  The project is deployed on Heroku
+  ## Usage
+  You will need to create a user profile and password and use thast info to sign in. Then you will be taken to the watchlist page where you can start researching stocks.
+  ## Contributors
+  Ahn, Moses, Dan, Doug, Donny.
+  ## Test
+  N/A
+  ## Questions
+  If you have any questions, contact Bowerpower85 on GitHub or email at undefined.
+  ## License
+  MIT License 
+  Copyright (c) [year] [Bowerpower85]
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+  The above copyright notice and this permission notice shall be included in all
+  copies or substantial portions of the Software.
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+  SOFTWARE.
+  ## Author
+  ![GitHub profile pic](https://avatars0.githubusercontent.com/u/56975398?v=4)
