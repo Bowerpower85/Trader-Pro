@@ -2,25 +2,21 @@
   # Project Title : TraderPro
   ## Project Description:
   An application that allows the client to search through a list of stocks and recieve information about that stock including but not limited to currrent price, name, symbol, with the potential for more information to be added in the future.
-  ## Badges
-  !(https://img.shields.io/github/repo-size/:Bowerpower85/:undefined)
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
   * [Contributing](#contributing)
-  * [Test](#test)
   * [Questions](#questions)
   * [License](#license)
   * [Author](#Author)
-  * [Badges](#badges)
+  
   ## Installation
   The project is deployed on Heroku
   ## Usage
   You will need to create a user profile and password and use thast info to sign in. Then you will be taken to the watchlist page where you can start researching stocks.
   ## Contributors
   Ahn, Moses, Dan, Doug, Donny.
-  ## Test
-  N/A
   ## Questions
   If you have any questions, contact Bowerpower85 on GitHub or email at undefined.
   ## License
