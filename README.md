@@ -12,7 +12,7 @@
   * [Author](#Author)
   
   ## Installation
-  The project is deployed on Heroku
+  The project is deployed on Heroku at https://obscure-river-40422.herokuapp.com/
   ## Usage
   You will need to create a user profile and password and use thast info to sign in. Then you will be taken to the watchlist page where you can start researching stocks.
   ## Contributors
